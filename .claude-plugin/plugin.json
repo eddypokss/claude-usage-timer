@@ -1,0 +1,1 @@
+{ "name": "usage-timer", "version": "0.2.0", "description": "Usage timer pane and status line: session time, 5-hour and 7-day usage with reset countdowns, and cost", "author": { "name": "eddypokss" }, "license": "MIT", "types": "./types/index.d.ts" }
